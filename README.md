@@ -196,7 +196,7 @@ J'ai décidé qu'il serait plus intéressant d'avoir une base de données conten
 * 10 utilisateurs / 20 potins / 10 tags / 1 message privé / 20 commentaires / 20 sous-commentaires / 20 likes
 
 On se retrouvera donc avec au total :
-* 10 villes / 100 utilisateurs / 200 potins / 100 tags / 10 message privé / 200 commentaires / 200 sous-commentaires / 200 likes
+* 10 villes / 100 utilisateurs / 200 potins / 100 tags / 10 messages privés / 200 commentaires / 200 sous-commentaires / 200 likes
 
 Évidemment, vous être libre de modifier ces "quantités" à votre guise plus tard...
 
@@ -211,6 +211,6 @@ La base de données étant 10 fois plus lourde que prévu, ayez un peu de patien
 
 Une fois de plus, je vous invite à (re)consulter le site de <a href="https://www.thehackingproject.org/week/4/day/4">The Hacking Project</a> pour vérifier que la base de donnée obtenue est correcte.
 
-Si vous utiliez une application telle que <a href="http://sqlitebrowser.org/">DB Browser</a> ou <a href="http://sqlitestudio.pl/?act=download">SQLStudio</a>, vous trouverez la base de donnée dans `db/development.sqlite3`
+Si vous utilisez une application telle que <a href="http://sqlitebrowser.org/">DB Browser</a> ou <a href="http://sqlitestudio.pl/?act=download">SQLStudio</a>, vous trouverez la base de donnée dans `db/development.sqlite3`
 
 Enjoy & Keep Coding !
