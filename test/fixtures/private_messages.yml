@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyText
+  date: 2018-07-29 19:46:02
+  sender_id: 1
+  receiver_id: 1
+  receiver2_id: 1
+  receiver3_id: 1
+
+two:
+  content: MyText
+  date: 2018-07-29 19:46:02
+  sender_id: 1
+  receiver_id: 1
+  receiver2_id: 1
+  receiver3_id: 1
