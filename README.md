@@ -213,4 +213,4 @@ Une fois de plus, je vous invite à (re)consulter le site de <a href="https://ww
 
 Si vous utiliez une application telle que <a href="http://sqlitebrowser.org/">DB Browser</a> ou <a href="http://sqlitestudio.pl/?act=download">SQLStudio</a>, vous trouverez la base de donnée dans `db/development.sqlite3`
 
-Enjoy !
+Enjoy & Keep coding !
