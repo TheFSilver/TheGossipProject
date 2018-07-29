@@ -10,7 +10,9 @@ Pour toutes questions, commentaires, suggestions et dons (espèces, CB, chèques
 ## Résolution de l'exercice
 
 Le but ici, étant pour vous, de voir une des nombreuses manières de résoudre le problème donné et d'analyser/décortiquer chaque ligne de code afin de comprendre 
-Pour recréer vous-même l'exercice, suivez simplement le guide en recopiant les commandes ci-dessous, une à une, dans votre terminal:
+Pour recréer vous-même l'exercice, suivez simplement le guide en recopiant les commandes ci-dessous, une à une, dans votre terminal pour obtenir l'architecture ci-dessous :
+
+<img src="https://preview.ibb.co/i6ppET/Screen_Shot_2018_07_29_at_21_23_59.png" alt="Screen_Shot_2018_07_29_at_21_23_59" border="0" title="Aspect visuel de la base de donnée">
 
 * Commençons par créer le dossier de l'exercice sur votre bureau :
 ``` 
