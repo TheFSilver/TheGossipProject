@@ -211,6 +211,6 @@ La base de données étant 10 fois plus lourde que prévu, ayez un peu de patien
 
 Une fois de plus, je vous invite à (re)consulter le site de <a href="https://www.thehackingproject.org/week/4/day/4">The Hacking Project</a> pour vérifier que la base de donnée obtenue est correcte.
 
-Si vous utiliez une application telle que <a href="http://sqlitebrowser.org/">DB Browser</a> ou <a href="http://sqlitestudio.pl/?act=download">SQLStudio</a>, vous trouverez la base de donnée dans `db/development.sqlite3`.
+Si vous utiliez une application telle que <a href="http://sqlitebrowser.org/">DB Browser</a> ou <a href="http://sqlitestudio.pl/?act=download">SQLStudio</a>, vous trouverez la base de donnée dans `db/development.sqlite3`
 
 Enjoy !
