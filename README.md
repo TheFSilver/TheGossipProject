@@ -5,7 +5,7 @@
 
 Je vous invite à (re)consulter les consignes sur le site de <a href="https://www.thehackingproject.org/week/4/day/4">The Hacking Project</a>.
 
-Pour toute question, contactez-moi sur le slack en cherchant : **_@Francois D._**
+Pour toutes questions, commentaires, suggestions et dons (espèces, CB, chèques, virements bancaires et crypto-monnaies acceptées), contactez-moi sur le slack en cherchant : **_@Francois D._**
 
 ## Résolution de l'exercice
 
