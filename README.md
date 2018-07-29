@@ -19,7 +19,7 @@ mkdir TheGossipProject
 rails new TheGossipProject/
 cd TheGossipProject/
 ```
-* Rajoutons la gem **"Faker"** dans le fichier **_`Gemfile`_** pour générer des données automatiquement : 
+* Rajoutons la gem **"<a href="https://github.com/stympy/faker">Faker</a>"** dans le fichier **_`Gemfile`_** pour générer des données automatiquement : 
 ```
 open Gemfile
 ```
